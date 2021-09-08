@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m @Nomula Jawahar Reddy
 
-> *“If you think that the internet has changed your life, think again. The Internet of Things is about to change it all over again!”*
+> ***“If you think that the internet has changed your life, think again. The Internet of Things is about to change it all over again!”***
 
 👀 I’m interested in ... Internet of Things, Machine Learning and Data Science.
 
